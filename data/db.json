@@ -1,0 +1,28 @@
+{
+  "decks": [
+    {
+      "name": "WILL DELETE",
+      "description": "Hi",
+      "id": 4
+    },
+    {
+      "name": "Meeko",
+      "description": "Taylor",
+      "id": 5
+    }
+  ],
+  "cards": [
+    {
+      "front": "New Card 1",
+      "back": "Hi",
+      "deckId": 4,
+      "id": 1
+    },
+    {
+      "front": "Hello",
+      "back": "Hello",
+      "deckId": 4,
+      "id": 2
+    }
+  ]
+}
